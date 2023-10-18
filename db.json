@@ -1,0 +1,44 @@
+{
+  "apparel": [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "category": "Shirts",
+      "size": "M",
+      "color": "blue",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "category": "Pants",
+      "size": "32W 32L",
+      "color": "black",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "name": "Dress",
+      "category": "Dresses",
+      "size": "S",
+      "color": "red",
+      "price": 49.99
+    },
+    {
+      "name": "sam",
+      "category": "boba",
+      "size": "big",
+      "color": "green",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "sam",
+      "category": "boba",
+      "size": "big",
+      "color": "green",
+      "price": "12",
+      "id": 5
+    }
+  ]
+}
